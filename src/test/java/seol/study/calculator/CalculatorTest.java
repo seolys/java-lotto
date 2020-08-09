@@ -1,10 +1,10 @@
-package seol.study.lotto;
+package seol.study.calculator;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import seol.study.caculator.StringAddCalculator;
 
 public class CalculatorTest {
 	private StringAddCalculator calculator = new StringAddCalculator();

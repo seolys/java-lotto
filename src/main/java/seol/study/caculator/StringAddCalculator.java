@@ -1,4 +1,4 @@
-package seol.study.lotto;
+package seol.study.caculator;
 
 import java.util.Arrays;
 import java.util.regex.Matcher;
